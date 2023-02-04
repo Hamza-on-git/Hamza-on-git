@@ -1,2 +1,2 @@
-Hi, I am Hamza
+Hi, I am Hamza [software developer].
 
